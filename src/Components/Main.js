@@ -10,6 +10,9 @@ class Main extends Component {
         <div className="App-main-mainImage">
           <img src={imgMain} className="mainImage" alt="" />
         </div>
+        <div className="App-main-About">
+          
+        </div>
         <ReadPortfolioList></ReadPortfolioList>
       </main>
     );
