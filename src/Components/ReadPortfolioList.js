@@ -27,15 +27,9 @@ class ReadPortfolioList extends Component {
               </div>
               <div className="portfolio_cont">
                 <p>
-                  <h2>
-                    {this.state.portfolioList[i].title}
-                  </h2><br/>
-                  <section>
-                    <b>Description : </b>{this.state.portfolioList[i].desc}
-                  </section><br/>
-                  <section>
+                    {this.state.portfolioList[i].title}<br/>
+                    <b>Description : </b>{this.state.portfolioList[i].desc}<br/>
                     <b>Skill : </b>{this.state.portfolioList[i].skill}
-                  </section>
                   <a href={this.state.portfolioList[i].link}>Github</a>
                 </p>
               </div>
