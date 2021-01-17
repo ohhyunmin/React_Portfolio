@@ -12,6 +12,7 @@
   width: 100%;
   height: 80px;
   display: flex;
+  margin-bottom: 50px;
   text-align: center;
   color: white;
   position: sticky;
@@ -48,29 +49,33 @@
   width: 50%;
 }
 
-.portfolio_img {
-}
-
 .portfolio_img > img {
   width: 50%;
   display: block;
   margin: auto;
 }
 
-.mainImage {
+.MainImage {
   width: 250px;
   height: 250px;
   border-radius: 50%;
 }
 
-.App-main-mainImage {
+.App-main-Main {
   width: 100%;
   text-align: center;
+  margin-bottom: 50px;
 }
 
 .App-main-About {
   width: 100%;
-  height: 200px;
-  background-color: pink;
+  background-color: black;
+  color: white;
   text-align: center;
+}
+
+.App-main-About-Section {
+  width: 50%;
+  margin: auto;
+  text-align: left;
 }
