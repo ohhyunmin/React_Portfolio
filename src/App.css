@@ -53,7 +53,7 @@
 
 .item > div {
   width: 50%;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .portfolio_img > img {
@@ -79,10 +79,25 @@
   background-color: black;
   color: white;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .App-main-About-Section {
   width: 50%;
   margin: auto;
   text-align: left;
+}
+
+.App_Footer{
+  height: 80px;
+  font-size: large;
+  color: white;
+  background-color: black;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item{
+  margin-bottom: 20px;
 }

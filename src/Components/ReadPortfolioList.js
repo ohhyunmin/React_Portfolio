@@ -26,11 +26,11 @@ class ReadPortfolioList extends Component {
                 <img src={this.state.portfolioList[i].image} alt=""/>
               </div>
               <div className="portfolio_cont">
+              <h2>{this.state.portfolioList[i].title}</h2><br/><br/>
                 <p>
-                    {this.state.portfolioList[i].title}<br/>
-                    <b>Description : </b>{this.state.portfolioList[i].desc}<br/>
-                    <b>Skill : </b>{this.state.portfolioList[i].skill}
-                  <a href={this.state.portfolioList[i].link}>Github</a>
+                    <b>Description : </b>{this.state.portfolioList[i].desc}<br/><br/>
+                    <b>Skill : </b>{this.state.portfolioList[i].skill}<br/><br/>
+                    <a href={this.state.portfolioList[i].link}>Github</a>
                 </p>
               </div>
             </li>);
