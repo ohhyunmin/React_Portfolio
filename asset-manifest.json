@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ohhyunmin/React_Portfolio/static/css/main.a29afbb4.chunk.css",
+    "main.js": "/ohhyunmin/React_Portfolio/static/js/main.0ef73755.chunk.js",
+    "main.js.map": "/ohhyunmin/React_Portfolio/static/js/main.0ef73755.chunk.js.map",
+    "runtime-main.js": "/ohhyunmin/React_Portfolio/static/js/runtime-main.62a0a9cf.js",
+    "runtime-main.js.map": "/ohhyunmin/React_Portfolio/static/js/runtime-main.62a0a9cf.js.map",
+    "static/js/2.51a2588a.chunk.js": "/ohhyunmin/React_Portfolio/static/js/2.51a2588a.chunk.js",
+    "static/js/2.51a2588a.chunk.js.map": "/ohhyunmin/React_Portfolio/static/js/2.51a2588a.chunk.js.map",
+    "static/js/3.88fb0a2b.chunk.js": "/ohhyunmin/React_Portfolio/static/js/3.88fb0a2b.chunk.js",
+    "static/js/3.88fb0a2b.chunk.js.map": "/ohhyunmin/React_Portfolio/static/js/3.88fb0a2b.chunk.js.map",
+    "index.html": "/ohhyunmin/React_Portfolio/index.html",
+    "static/css/main.a29afbb4.chunk.css.map": "/ohhyunmin/React_Portfolio/static/css/main.a29afbb4.chunk.css.map",
+    "static/js/2.51a2588a.chunk.js.LICENSE.txt": "/ohhyunmin/React_Portfolio/static/js/2.51a2588a.chunk.js.LICENSE.txt",
+    "static/media/MainImage.98f97720.png": "/ohhyunmin/React_Portfolio/static/media/MainImage.98f97720.png",
+    "static/media/ReactPortfolio.c4c0ae70.png": "/ohhyunmin/React_Portfolio/static/media/ReactPortfolio.c4c0ae70.png",
+    "static/media/YoutubeClone.35c17e66.png": "/ohhyunmin/React_Portfolio/static/media/YoutubeClone.35c17e66.png",
+    "static/media/고객 관리 시스템.9dd679cf.png": "/ohhyunmin/React_Portfolio/static/media/고객 관리 시스템.9dd679cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a0a9cf.js",
+    "static/js/2.51a2588a.chunk.js",
+    "static/css/main.a29afbb4.chunk.css",
+    "static/js/main.0ef73755.chunk.js"
+  ]
+}
