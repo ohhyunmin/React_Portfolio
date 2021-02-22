@@ -18,6 +18,7 @@
   position: sticky;
   top: 0;
   justify-content: center;
+  background-color: black;
 }
 
 .App-header-nav {
@@ -37,6 +38,11 @@
   width: 100%;
 }
 
+.App-header-nav-ul-li a{
+  text-decoration: none; /* 링크의 밑줄 제거 */
+  color: inherit; /* 링크의 색상 제거 */
+}
+
 .portfolio {
   background-color: white;
 }
@@ -47,6 +53,7 @@
 
 .item > div {
   width: 50%;
+  margin-top: 50px;
 }
 
 .portfolio_img > img {
@@ -72,10 +79,25 @@
   background-color: black;
   color: white;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .App-main-About-Section {
   width: 50%;
   margin: auto;
   text-align: left;
+}
+
+.App_Footer{
+  height: 80px;
+  font-size: large;
+  color: white;
+  background-color: black;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item{
+  margin-bottom: 20px;
 }

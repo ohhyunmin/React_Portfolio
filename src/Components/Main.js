@@ -1,16 +1,16 @@
 import React, {Component} from 'react';
 import '../App.css';
 import MainImage from '../Img/MainImage.png'
-import ReadPortfolioList from './ReadPortfolioList';
+import ReadPortfolioList from './ReadPortfolioList.js';
 
 class Main extends Component {
     render(){
     return (
       <main className="App-main">
-        <div className="App-main-Main">
+        <div className="App-main-Main" id="App-main-Main">
           <img src={MainImage} className="MainImage" alt="" />
         </div>
-        <div className="App-main-About">
+        <div className="App-main-About" id="App-main-About">
           <h1>
             도전하는 개발자
           </h1><br/>
