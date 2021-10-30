@@ -9,7 +9,7 @@ class ReadPortfolioList extends Component {
     super(props);
     this.state = {
       portfolioList : [{id:1, title:'고객 관리 시스템', image:crm,
-      desc:'고객 관리 시스템 Clone 코딩을 통해 웹사이트를 구현해보았습니다.', skill:"React, NodeJS, AWS-RDS (My-SQL), Material-UI", link:'https://github.com/ohhyunmin/React_Crm'},
+      desc:'고객 관리 시스템 Clone 코딩을 통해 웹사이트를 구현해보았습니다.', skill:"React, NodeJS, AWS-RDS (My-SQL), Material-UI", link:'https://github.com/ohhyunmin/React_Portfolio'},
       {id:2, title:'ReactPortfolio', image:reactPortfolio,
       desc:'React를 이용해 간단한 포트폴리오 페이지를 만들어보았습니다.', skill:"React", link:'https://github.com/ohhyunmin/ReactPortfolio'},
       {id:3, title:'YoutubeClone', image:youtubeClone, skill:"HTML, CSS, Javescript",
