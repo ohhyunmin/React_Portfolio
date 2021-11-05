@@ -2,4 +2,4 @@
 
 개발에 대한 저의 목표와 Mini Project 설명 등을 보실 수 있습니다.
 
-실행 - nm start
+실행 - npm start
